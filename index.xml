@@ -9,118 +9,82 @@
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lubux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RoFL: Attestable Robustness for Secure Federated Learning.</title>
-      <link>https://lubux.github.io/publications/1-rofl/</link>
+      <link></link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lubux.github.io/publications/1-rofl/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
       <title>VF-PS: How to Select Important Participants in Vertical Federated Learning, Efficiently and Securely?.</title>
-      <link>https://lubux.github.io/publications/2-vf-ps/</link>
+      <link></link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://lubux.github.io/publications/2-vf-ps/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
       <title>Cryptographic Auditing for Collaborative Learning</title>
-      <link>https://lubux.github.io/publications/audit/</link>
+      <link></link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://lubux.github.io/publications/audit/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
       <title>Zeph: Cryptographic Enforcement of End-to-End Data Privacy.</title>
-      <link>https://lubux.github.io/publications/zeph/</link>
+      <link></link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://lubux.github.io/publications/zeph/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
       <title>Droplet: Decentralized Authorization and Access Control for Encrypted Data Streams</title>
-      <link>https://lubux.github.io/publications/droplet/</link>
+      <link></link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lubux.github.io/publications/droplet/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
       <title>TimeCrypt: Encrypted Data Stream Processing at Scale with Access Control</title>
-      <link>https://lubux.github.io/publications/tc/</link>
+      <link></link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lubux.github.io/publications/tc/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Secure Aggregation for Privacy-Preserving Federated Learning with Adversaries</title>
-      <link>https://lubux.github.io/publications/roflws/</link>
+      <link></link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lubux.github.io/publications/roflws/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
       <title>Secure Sharing of Partially Homomorphic Encrypted IoT Data.</title>
-      <link>https://lubux.github.io/publications/pilatus/</link>
+      <link></link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://lubux.github.io/publications/pilatus/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Blockchain-based Auditable Storage and Sharing of IoT Data.</title>
-      <link>https://lubux.github.io/publications/wsdropl/</link>
+      <link></link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://lubux.github.io/publications/wsdropl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://lubux.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lubux.github.io/about/</guid>
-      <description>about</description>
-    </item>
-    
-    <item>
-      <title>RoFL: Attestable Robustness for Secure Federated Learning</title>
-      <link>https://lubux.github.io/talks/2-rofl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lubux.github.io/talks/2-rofl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TimeCrypt: Encrypted Data Stream Processing at Scale</title>
-      <link>https://lubux.github.io/talks/3-tc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lubux.github.io/talks/3-tc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zeph: Cryptographic Enforcement of End-to-End Data Privacy.</title>
-      <link>https://lubux.github.io/talks/1-zeph/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lubux.github.io/talks/1-zeph/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
